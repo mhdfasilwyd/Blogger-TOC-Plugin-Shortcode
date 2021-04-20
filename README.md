@@ -8,5 +8,5 @@ Completey independent and universal TOC plugin for Blogger (can be used for any 
 ```
 # CDN URL for faster access
 ```javascript
-<script async='async' defer='defer' src='https://ghcdn.rawgit.org/mhdfasilwyd/Blogger_TOC_Plugin/main/toc-pro.js' type='text/javascript'></script>
+<script src='https://ghcdn.rawgit.org/mhdfasilwyd/Blogger_TOC_Plugin/main/toc-pro.js' type='text/javascript'/>
 ```
