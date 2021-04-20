@@ -10,3 +10,5 @@ Completey independent and universal TOC plugin for Blogger (can be used for any 
 ```javascript
 <script src='https://ghcdn.rawgit.org/mhdfasilwyd/Blogger_TOC_Plugin/main/toc-pro.js' type='text/javascript'/>
 ```
+# Documentation
+https://bloginos.com/table-of-contents-in-blogger/
