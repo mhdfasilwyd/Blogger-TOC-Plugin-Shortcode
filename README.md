@@ -12,5 +12,8 @@ With AMP Elements [https://github.com/mhdfasilwyd/Blogger-TOC-Plugin-Shortcode/t
 ```javascript
 <script src='https://ghcdn.rawgit.org/mhdfasilwyd/Blogger_TOC_Plugin/main/toc-pro.js' type='text/javascript'/>
 ```
+```javascript
+<link href='https://ghcdn.rawgit.org/mhdfasilwyd/Blogger_TOC_Plugin/main/toc-pro.css' type='text/css' rel='stylesheet'/>
+```
 # Documentation
 https://bloginos.com/table-of-contents-in-blogger/
